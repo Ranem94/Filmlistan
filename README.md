@@ -2,11 +2,13 @@
 
 Filmlistan är en Android-app för filmer.
 
- Funktioner
-- Visa filmer
-- Se information om filmer
-- Enkel användarvänlig design
+Funktioner
 
+- Visa en lista med filmer.
+- Lägga till nya filmer.
+- Markera filmer som sedda.
+- Ta bort filmer från listan.
+ 
  Teknik
 - Kotlin
 - Android Studio
